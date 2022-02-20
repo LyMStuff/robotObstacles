@@ -34,6 +34,7 @@ public class Interpreter   {
 	public Interpreter(RobotWorld mundo)
       {
 		this.world =  (RobotWorldDec) mundo;
+		System.out.println("Este es un mensaje nuevo");
 		
 	  }
 	
